@@ -4,3 +4,5 @@ Activation steps:
 - `python3 bot.py`
 
 [Docs](https://discord.com/developers/docs/topics/community-resources)
+
+**WARNING: COWSAY IS VULNERABLE TO CODE INJECTION ATTACKS**
